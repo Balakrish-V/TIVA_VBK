@@ -1,0 +1,7 @@
+"./delay_driver.obj"
+"./main_switch.obj"
+"./timer_driver.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./uart_driver.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
